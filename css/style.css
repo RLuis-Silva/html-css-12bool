@@ -1,0 +1,12 @@
+h1, h2{
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.box{
+  padding: 10px;
+  text-align: center;
+  background-color: orange;
+  border: solid black 1px;
+  margin-bottom: 20px;
+}
